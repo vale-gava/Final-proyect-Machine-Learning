@@ -1,4 +1,4 @@
-# Final project IBM Data Science Capstone: Loan Classification
+# IBM Data Science Capstone: Loan Classification
 
 With the jupyter notebook I was able to strengthen the learnings of the modules
 presented in the IBM Data Science coursera.
